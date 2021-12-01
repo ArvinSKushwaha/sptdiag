@@ -1,6 +1,6 @@
 name: Tox Testing
 
-on: [push, pull-request]
+on: [push, pull_request]
 
 jobs:
   build-linux:
