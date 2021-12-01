@@ -1,7 +1,5 @@
-from sptdiag import InertialFrame, SpaceTime
+from sptdiag import InertialFrame
 import numpy as np
-
-import pytest
 
 
 def test_inertial_frame():
