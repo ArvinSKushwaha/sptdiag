@@ -1,0 +1,5 @@
+**/.vscode
+**/__pycache__
+sptdiag.egg-info
+.tox
+.pytest_cache
